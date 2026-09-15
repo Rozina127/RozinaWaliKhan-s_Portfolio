@@ -170,7 +170,7 @@ User Submission
 - 📱 Phone: +92 323 5080980
 - 💼 [LinkedIn](https://www.linkedin.com/in/rozina-wali-613737261/)
 - 🐙 [GitHub](https://github.com/Rozina127)
-- 💻 [Fiverr](https://www.fiverr.com/rozina_wali/)
+- 💻 [Fiverr](https://www.fiverr.com/sellers/rozinawali/edit)
 - 🔧 [Upwork](https://www.upwork.com/freelancers/~01b25a9c4d54118238)
 
 ## 📄 License

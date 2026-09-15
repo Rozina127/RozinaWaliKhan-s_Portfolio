@@ -79,7 +79,7 @@ const Footer = () => {
                 <Github className="w-5 h-5 text-cyber-primary" />
               </a>
               <a
-                href="https://www.fiverr.com/rozina_wali"
+                href="https://www.fiverr.com/sellers/rozinawali/edit"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="p-2.5 bg-cyber-dark/50 rounded-lg border border-cyber-primary/20 hover:border-cyber-primary hover:bg-cyber-primary/10 hover:scale-110 transition-all"

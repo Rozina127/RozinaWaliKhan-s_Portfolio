@@ -156,7 +156,7 @@ const Hero = () => {
                 <Github className="w-6 h-6 text-cyber-primary group-hover:scale-110 transition-transform" />
               </div>
             </a>
-            <a href="https://www.fiverr.com/rozina_wali" target="_blank" rel="noopener noreferrer" className="group">
+            <a href="https://www.fiverr.com/sellers/rozinawali/edit" target="_blank" rel="noopener noreferrer" className="group">
               <div className="p-3 bg-cyber-dark/50 rounded-xl border border-cyber-primary/30 hover:border-cyber-primary hover:bg-cyber-primary/10 transition-all">
                 <ExternalLink className="w-6 h-6 text-cyber-primary group-hover:scale-110 transition-transform" />
               </div>
